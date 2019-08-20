@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Pump It Up : My Stat
+                    Pump It Up : My Stat 01
                 </div>
 
                 <div class="links">
